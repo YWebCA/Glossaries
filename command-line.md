@@ -17,10 +17,6 @@
 * rmdir
     * Remove Directory
     * Removes a child directory of given name
-* pushd
-    *
-* popd
-    *
 * touch
     * Creates a new file witht the given name
 * cp
@@ -47,20 +43,12 @@
 * >>
     * Appends the output of a command to the left to a file on the right
 * *
-    * 
-* find
-    *
-* grep
     *
 * man
-    *
-* apropos
-    *
+    * Provides documentation on various commands. Used like `man 'command'` to look up 'command'
 * env
-    *
+    * Prints the current enviroment variable and system information.
 * echo
-    *
+    * Outputs 
 * export
-    *
-* exit
     *
